@@ -1,6 +1,6 @@
 <h1> Hi ! I'm Jeremy 👋 </h1>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **HTML/CSS**
  
 - 🤓 I am currently studying at **Código Facilito**
 
