@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python** and **JavaScript**
  
-- 🤓 I am currently studying at **Código Facilito** and at **Talento Digital*
+- 🤓 I am currently studying at **Código Facilito** and at **Talento Digital**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeremy-andres](https://github.com/jeremy-andres)
 
